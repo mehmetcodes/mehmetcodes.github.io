@@ -15,4 +15,4 @@ Well, here is what you'll get:
 
 That's all well and good, but its also not using boto3 now is it?
 
-<script src="https://gist.github.com/mehmetcodes/b05961cf1e11310479fd.js"></script>
+<script src="https://gist.github.com/mehmetcodes/b05961cf1e11310479fd.js" type="text/javascript"></script>
