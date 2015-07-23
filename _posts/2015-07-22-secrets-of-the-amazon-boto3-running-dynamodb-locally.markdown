@@ -14,5 +14,5 @@ Well, here is what you'll get:
 <a href="http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/TicTacToe.Phase1.html">Tic Tac Toe</a>
 
 That's all well and good, but its also not using boto3 now is it?
-<code data-gist-id="b05961cf1e11310479fd" data-gist-hide-line-numbers="true"></code>
+<code data-gist-id="b05961cf1e11310479fd" data-gist-hide-line-numbers="true">k</code>
 
